@@ -1,4 +1,7 @@
-### Hi there 👋
+That's all you need to know about me
+
+![Summary](https://user-images.githubusercontent.com/76498277/172078504-7ffc2576-58d6-43ae-b2b8-509a3b6bf22d.png)
+
 
 <!--
 **GreenTrafficLight/GreenTrafficLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
